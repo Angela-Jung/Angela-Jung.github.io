@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.daysenter.android.daysnovel",
+      "sha256_cert_fingerprints": [
+        "C2:C2:3A:C3:A8:41:5E:05:6F:CA:64:1F:49:48:2A:13:F2:81:FA:32:DA:CC:69:A6:CE:A4:EF:09:D3:8B:AF:22"
+      ]
+    }
+  }
+]
