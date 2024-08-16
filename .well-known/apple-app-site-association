@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": [
+        "appID": [
           "CN47329R73.com.daysenter.ios.daysnovel"
         ],
         "components": [
