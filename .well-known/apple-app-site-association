@@ -1,5 +1,6 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
         "appID": [
@@ -7,13 +8,13 @@
         ],
         "paths": [
           "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
         ]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "CN47329R73.com.daysenter.ios.daysnovel"
     ]
   }
 }
