@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": [
+          "CN47329R73.com.daysenter.ios.daysnovel"
+        ],
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "CN47329R73.com.daysenter.ios.daysnovel"
+    ]
+  }
+}
